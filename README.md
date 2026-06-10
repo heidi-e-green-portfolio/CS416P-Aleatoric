@@ -8,6 +8,7 @@ Generates a random song and performs it using sawtooth wave synthesis. To be ale
 sounddevice   
 numpy   
 scipy      
+
 **Can be done by the following command:**   
 pip install -r requirements.txt   
 
